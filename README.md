@@ -1,3 +1,1 @@
-# Beta
-
-to understand forking
+# InClassCIN
